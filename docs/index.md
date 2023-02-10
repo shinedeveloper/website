@@ -1,3 +1,10 @@
+---
+layout: default
+page.title: "Pronájem bytu 4+1 90 m²"
+title: "Pronájem bytu 4+1 90 m²"
+site.title: "Pronájem bytu 4+1 90 m²"
+---
+
 # Pronájem bytu 4+1 90 m²
 ## Elplova, Brno - Líšeň
 
