@@ -8,8 +8,6 @@ title: "Pronájem bytu 4+1 90 m²"
 
 <a href="A-P_20230204_111400.jpg"><img src="thumb/A-P_20230204_111400.jpg" width="960" height="540"/></a>
 
-<a href="I-Pudorys.png"><img src="thumb/I-Pudorys.png" width="960" height="725"/></a>
-
 
 **Nabízím k pronájmu plně zařízený byt 4+1 v městské části Brno - Líšeň, ulice Elplova.**
 
@@ -66,9 +64,9 @@ Dům se nachází v lokalitě s veškerou občanskou vybaveností - v docházkov
 
 <a href="C-P_20230204_144624.jpg"><img src="thumb/C-P_20230204_144624.jpg" width="960" height="540"/></a>
 
-<a href="D-P_20230204_121549.jpg"><img src="thumb/D-P_20230204_121549.jpg" width="960" height="540"/></a>
+<a href="I-Pudorys.png"><img src="thumb/I-Pudorys.png" width="960" height="725"/></a>
 
-<a href="T-P_20230204_113558.jpg"><img src="thumb/T-P_20230204_113558.jpg" width="960" height="540"/></a>
+<a href="D-P_20230204_121549.jpg"><img src="thumb/D-P_20230204_121549.jpg" width="960" height="540"/></a>
 
 <a href="E-P_20230204_144230.jpg"><img src="thumb/E-P_20230204_144230.jpg" width="960" height="540"/></a>
 
@@ -78,10 +76,14 @@ Dům se nachází v lokalitě s veškerou občanskou vybaveností - v docházkov
 
 <a href="H-P_20230204_150300.jpg"><img src="thumb/H-P_20230204_150300.jpg" width="960" height="540"/></a>
 
-<a href="I-P_20230204_150349.jpg"><img src="thumb/I-P_20230204_150349.jpg" height="540"/></a>
+<div style="text-align: center;">
 
-<a href="J-P_20230204_150854.jpg"><img src="thumb/J-P_20230204_150854.jpg" height="540"/></a>
+<a href="I-P_20230204_150349.jpg"><img src="thumb/I-P_20230204_150349.jpg" height="540"/></a><br/>
 
-<a href="K-P_20230204_150942.jpg"><img src="thumb/K-P_20230204_150942.jpg" height="540"/></a>
+<a href="J-P_20230204_150854.jpg"><img src="thumb/J-P_20230204_150854.jpg" height="540"/></a><br/>
 
-<a href="S-P_20230204_113533.jpg"><img src="thumb/S-P_20230204_113533.jpg" height="540"/></a>
+<a href="K-P_20230204_150942.jpg"><img src="thumb/K-P_20230204_150942.jpg" height="540"/></a><br/>
+
+<a href="S-P_20230204_113533.jpg"><img src="thumb/S-P_20230204_113533.jpg" height="540"/></a><br/>
+
+</div>
