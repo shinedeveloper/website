@@ -71,12 +71,10 @@ Dům se nachází v lokalitě s veškerou občanskou vybaveností - v docházkov
 
 <a href="H-P_20230204_150300.jpg"><img src="thumb/H-P_20230204_150300.jpg" width="960" height="540"/></a>
 
-<a href="I-P_20230204_150349.jpg"><img src="thumb/I-P_20230204_150349.jpg"/></a>
+<a href="I-P_20230204_150349.jpg"><img src="thumb/I-P_20230204_150349.jpg" height="540"/></a>
 
-<a href="J-P_20230204_150854.jpg"><img src="thumb/J-P_20230204_150854.jpg"/></a>
+<a href="J-P_20230204_150854.jpg"><img src="thumb/J-P_20230204_150854.jpg" height="540"/></a>
 
-<a href="K-P_20230204_150942.jpg"><img src="thumb/K-P_20230204_150942.jpg"/></a>
+<a href="K-P_20230204_150942.jpg"><img src="thumb/K-P_20230204_150942.jpg" height="540"/></a>
 
-<a href="R-P_20230204_121515.jpg"><img src="thumb/R-P_20230204_121515.jpg"/></a>
-
-<a href="S-P_20230204_113533.jpg"><img src="thumb/S-P_20230204_113533.jpg"/></a>
+<a href="S-P_20230204_113533.jpg"><img src="thumb/S-P_20230204_113533.jpg" height="540"/></a>
