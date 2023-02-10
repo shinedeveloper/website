@@ -58,6 +58,13 @@ Dům se nachází v lokalitě s veškerou občanskou vybaveností - v docházkov
 |__Výtah:__                         | Ano                                          |
 
 
+
+## Kontakt
+
+Kamil Ševeček, +420 604 217 013, kamil@sevecek.net
+
+
+
 ## Další fotky
 
 <a href="B-P_20230204_145900.jpg"><img src="thumb/B-P_20230204_145900.jpg" width="960" height="540"/></a>
