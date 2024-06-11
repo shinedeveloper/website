@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Privacy policy"
+---
+
 ## RobinDrawing: Privacy policy
 
 Welcome to the RobinDrawing app for Android!
