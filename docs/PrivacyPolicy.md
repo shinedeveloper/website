@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Privacy policy"
+title: Pronájem bytu 4+1 90 m²
 ---
 
 ## RobinDrawing: Privacy policy
